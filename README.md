@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marko Tomic</h1>
 <h3 align="center">A frontend web developer from Serbia</h3>
 
-- 🔭 I’m currently working on **Disney+ website**
+- 🔭 I’m currently working on **Disney+**
 
 - 🌱 I’m currently learning **React.js**
 
