@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://markotomic.me](https://markotomic.me)
+- 👨‍💻 All of my projects are available at [https://markotomic.me](https://markotomic.engineer)
 
 - 📝 I regularly write articles on [https://unbytech.tech](https://unbytech.tech)
 
