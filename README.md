@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marko Tomic</h1>
-<h3 align="center">A frontend web developer from Serbia</h3>
+<h3 align="center">Aspiring Full Stack Web Developer from Serbia</h3>
 
-- 🔭 I’m currently working on **Disney+**
+- 🔭 I’m currently working on **Airiuz - Air Quality Reports**
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -9,11 +9,7 @@
 
 - 📝 I regularly write articles on [https://unbytech.tech](https://unbytech.tech)
 
-- 💬 Ask me about **JavaScript, React, SEO...**
-
-- 📫 How to reach me **masheritto@gmail.com**
-
-- 🎮 Fun fact **I love to play Valorant & CS:GO**
+- 📫 How to reach me **markotomic.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
