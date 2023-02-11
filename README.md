@@ -6,23 +6,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomicmarko99&show_icons=true&theme=dracula&locale=en" alt="tomicmarko99" /></p>
 
 <pre>
-  <code>
-  
-  
-  ╔════════════════════════════════════════════════════════════════════════════╗
-  ║                                                                            ║
-  ║                                                                            ║
-  ║                                                                            ║
-  ║                                                                            ║
-  ║                                                                            ║
-  ║  🚀  💻   Welcome to my GitHub Profile!  💻   🚀                           ║
-  ║                                                                            ║
-  ║                                                                            ║
-  ║                                                                            ║
-  ║                                                                            ║
-  ║                                                                            ║
-  ╚════════════════════════════════════════════════════════════════════════════╝
-  
-  
+  <code style="color: green; background-color: black;">
+
+user@localhost:~$ echo "My GitHub username is: tomicmarko99"
+My GitHub username is: tomicmarko99
+user@localhost:~$ 
+
   </code>
 </pre>
