@@ -5,8 +5,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomicmarko99&show_icons=true&theme=dracula&locale=en" alt="tomicmarko99" /></p>
 
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0xeifUCe6qj1zeYE/giphy.gif"/>
-</p>
