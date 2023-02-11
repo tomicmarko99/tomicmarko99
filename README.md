@@ -5,12 +5,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomicmarko99&show_icons=true&theme=dracula&locale=en" alt="tomicmarko99" /></p>
 
-<pre style="color: green; background-color: black;">
-  <code>
 
-user@localhost:~$ echo "My GitHub username is: tomicmarko99"
-My GitHub username is: tomicmarko99
-user@localhost:~$ 
-
-  </code>
-</pre>
+![carbon](https://user-images.githubusercontent.com/83435518/218275341-8e2855c8-4a8c-4278-b77d-849bf01c6e3d.svg)
