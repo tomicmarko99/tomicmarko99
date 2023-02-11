@@ -5,8 +5,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomicmarko99&show_icons=true&theme=dracula&locale=en" alt="tomicmarko99" /></p>
 
-<pre>
-  <code style="color: green; background-color: black;">
+<pre style="color: green; background-color: black;">
+  <code>
 
 user@localhost:~$ echo "My GitHub username is: tomicmarko99"
 My GitHub username is: tomicmarko99
